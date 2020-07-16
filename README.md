@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there 👋 
+
+### My name is *Lukas Krauch*
+
+---
+
+- 🎓 I'm currently studying Computer Sciene at University of Tübingen, Germany.
+
+- 🏡 In my freetime I’m currently working on:
+  - 📱 some apps 
+  - 💻 my own website 
+  - 💡 machine learning projects
+  - and more ... 
+  
+- 🌱 I’m currently learning *CSS ... as always*
+
+
+
+- ⚡ Fun fact:
+  - I have repositories you cannot see
+
+
+### 🚧 More to come 🚧
 
 <!--
-**kaskra/kaskra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TODO: 
+- Skills:
+- 
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
