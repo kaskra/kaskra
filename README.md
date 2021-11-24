@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 I'm currently studying Computer Sciene at University of Tübingen, Germany.
+- 🎓 I'm currently studying Computer Sciene at the University of Tübingen, Germany.
 
 - 🏡 In my freetime I’m currently working on:
   - 📱 some apps 
